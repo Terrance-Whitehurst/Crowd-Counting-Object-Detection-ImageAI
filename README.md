@@ -1,7 +1,7 @@
-![](detection_preview.png)
+![](crowd_preview.png)
 
 # Project Overview:
-This is a side project I haven been working on to track and count the amount of cars in a video. I use the ImageAI object detection library to track and count the cars in the video. Thanks to the wonderful creators of ImageAI library you also can get the detection analytics for each frame, minute, and seconds of the video. The detection analytics for each second can be found in the "analytics" directory. The video used for detection is a random stock video I found to use for this project to perform object detection.
+This is a side project I haven been working on for crowd counting and tracking. I use the ImageAI object detection library to track and count the crowd in the video. Thanks to the wonderful creators of ImageAI library you also can get the detection analytics for each frame, minute, and seconds of the video. The detection analytics for each second can be found in the "analytics" directory. The video used for detection is a random stock video I found to use for this project to perform object detection.
 
 # ImageAI Library:
 ![](imageai.png)
