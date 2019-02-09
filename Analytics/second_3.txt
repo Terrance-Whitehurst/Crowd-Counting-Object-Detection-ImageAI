@@ -1,0 +1,91 @@
+SECOND :  3
+Array for the outputs of each frame  [[{'name': 'person', 'percentage_probability': 50.536954402923584, 'box_points': array([ 996,  625, 1060,  808])}, {'name': 'person', 'percentage_probability': 50.86501836
+7767334, 'box_points': array([1429,  592, 1490,  789])}, {'name': 'person', 'percentage_probability': 57.642555236816406, 'box_points': array([1130,  616, 1195,  806])}, {'name': 'person', 'percentage_probabi
+lity': 62.318021059036255, 'box_points': array([489, 622, 607, 881])}, {'name': 'person', 'percentage_probability': 80.17349243164062, 'box_points': array([1761,  607, 1874,  883])}], [{'name': 'person', 'per
+centage_probability': 65.09237289428711, 'box_points': array([1028,  625, 1089,  814])}, {'name': 'person', 'percentage_probability': 56.26075267791748, 'box_points': array([1426,  590, 1500,  789])}, {'name'
+: 'person', 'percentage_probability': 53.995490074157715, 'box_points': array([1146,  628, 1211,  806])}, {'name': 'person', 'percentage_probability': 58.24707746505737, 'box_points': array([439, 612, 547, 87
+9])}, {'name': 'person', 'percentage_probability': 77.04973220825195, 'box_points': array([1696,  612, 1807,  876])}], [{'name': 'person', 'percentage_probability': 67.71266460418701, 'box_points': array([104
+8,  611, 1123,  806])}, {'name': 'person', 'percentage_probability': 54.26959991455078, 'box_points': array([1387,  601, 1454,  789])}, {'name': 'person', 'percentage_probability': 81.70656561851501, 'box_poi
+nts': array([354, 618, 476, 896])}, {'name': 'person', 'percentage_probability': 62.65839338302612, 'box_points': array([233, 639, 352, 894])}, {'name': 'person', 'percentage_probability': 76.35085582733154,
+'box_points': array([1640,  627, 1740,  867])}], [{'name': 'person', 'percentage_probability': 59.02132987976074, 'box_points': array([1362,  604, 1422,  789])}, {'name': 'person', 'percentage_probability': 6
+6.48458242416382, 'box_points': array([1457,  576, 1542,  796])}, {'name': 'person', 'percentage_probability': 76.94011330604553, 'box_points': array([1597,  622, 1693,  863])}, {'name': 'person', 'percentage
+_probability': 70.34536004066467, 'box_points': array([274, 638, 395, 896])}, {'name': 'person', 'percentage_probability': 51.60934329032898, 'box_points': array([142, 718, 260, 898])}], [{'name': 'person', '
+percentage_probability': 55.51283359527588, 'box_points': array([1076,  598, 1142,  799])}, {'name': 'person', 'percentage_probability': 57.77860879898071, 'box_points': array([1358,  603, 1422,  789])}, {'na
+me': 'person', 'percentage_probability': 57.8107476234436, 'box_points': array([1174,  619, 1236,  800])}, {'name': 'person', 'percentage_probability': 70.36532163619995, 'box_points': array([1452,  587, 1526
+,  789])}, {'name': 'person', 'percentage_probability': 62.07680106163025, 'box_points': array([1567,  612, 1650,  852])}, {'name': 'person', 'percentage_probability': 57.12558627128601, 'box_points': array([
+189, 621, 290, 906])}], [{'name': 'person', 'percentage_probability': 66.83281064033508, 'box_points': array([1448,  577, 1529,  788])}, {'name': 'person', 'percentage_probability': 59.26562547683716, 'box_po
+ints': array([1335,  600, 1401,  786])}, {'name': 'person', 'percentage_probability': 71.12796902656555, 'box_points': array([ 34, 590, 154, 945])}, {'name': 'person', 'percentage_probability': 74.56501722335
+815, 'box_points': array([1548,  614, 1633,  846])}, {'name': 'person', 'percentage_probability': 54.34077978134155, 'box_points': array([123, 610, 217, 915])}], [{'name': 'person', 'percentage_probability':
+58.69298577308655, 'box_points': array([1454,  576, 1534,  782])}, {'name': 'person', 'percentage_probability': 74.78367686271667, 'box_points': array([1307,  594, 1375,  784])}, {'name': 'person', 'percentag
+e_probability': 69.4810688495636, 'box_points': array([1527,  615, 1600,  843])}, {'name': 'person', 'percentage_probability': 51.69072151184082, 'box_points': array([ 28, 634, 119, 915])}, {'name': 'person',
+ 'percentage_probability': 57.915449142456055, 'box_points': array([136, 677, 222, 907])}, {'name': 'person', 'percentage_probability': 78.86350750923157, 'box_points': array([217, 592, 327, 929])}], [{'name'
+: 'person', 'percentage_probability': 54.61718440055847, 'box_points': array([1031,  624, 1084,  781])}, {'name': 'person', 'percentage_probability': 66.62731170654297, 'box_points': array([1312,  600, 1375,
+ 782])}, {'name': 'person', 'percentage_probability': 82.61723518371582, 'box_points': array([366, 596, 476, 911])}, {'name': 'person', 'percentage_probability': 67.3923134803772, 'box_points': array([1486,
+606, 1569,  836])}, {'name': 'person', 'percentage_probability': 51.95658802986145, 'box_points': array([ 43, 679, 113, 903])}], [{'name': 'person', 'percentage_probability': 65.46380519866943, 'box_points':
+array([1028,  626, 1082,  783])}, {'name': 'person', 'percentage_probability': 81.01129531860352, 'box_points': array([492, 601, 592, 900])}, {'name': 'person', 'percentage_probability': 62.6021146774292, 'bo
+x_points': array([1477,  602, 1550,  827])}, {'name': 'person', 'percentage_probability': 50.51732659339905, 'box_points': array([ -1, 660,  67, 907])}], [{'name': 'person', 'percentage_probability': 67.53750
+443458557, 'box_points': array([1037,  624, 1092,  785])}, {'name': 'person', 'percentage_probability': 56.94494843482971, 'box_points': array([1301,  605, 1367,  781])}, {'name': 'person', 'percentage_probab
+ility': 64.68561887741089, 'box_points': array([1474,  601, 1547,  820])}, {'name': 'person', 'percentage_probability': 86.94778084754944, 'box_points': array([602, 607, 703, 886])}], [{'name': 'person', 'per
+centage_probability': 61.06148362159729, 'box_points': array([1051,  617, 1108,  792])}, {'name': 'person', 'percentage_probability': 64.02419805526733, 'box_points': array([1309,  607, 1376,  782])}, {'name'
+: 'person', 'percentage_probability': 59.457701444625854, 'box_points': array([1479,  606, 1550,  817])}, {'name': 'person', 'percentage_probability': 80.35995960235596, 'box_points': array([712, 609, 800, 87
+8])}], [{'name': 'person', 'percentage_probability': 79.78257536888123, 'box_points': array([807, 612, 895, 866])}, {'name': 'person', 'percentage_probability': 71.41690254211426, 'box_points': array([1067,
+617, 1129,  794])}, {'name': 'person', 'percentage_probability': 62.633031606674194, 'box_points': array([1484,  617, 1553,  813])}], [{'name': 'person', 'percentage_probability': 51.920658349990845, 'box_poi
+nts': array([409, 624, 516, 777])}, {'name': 'person', 'percentage_probability': 69.34501528739929, 'box_points': array([1089,  603, 1148,  796])}, {'name': 'person', 'percentage_probability': 56.729316711425
+78, 'box_points': array([1430,  588, 1503,  786])}, {'name': 'person', 'percentage_probability': 70.14585733413696, 'box_points': array([877, 605, 964, 854])}, {'name': 'person', 'percentage_probability': 61.
+46303415298462, 'box_points': array([1490,  606, 1560,  809])}], [{'name': 'person', 'percentage_probability': 57.579147815704346, 'box_points': array([1107,  604, 1169,  800])}, {'name': 'person', 'percentag
+e_probability': 51.9622266292572, 'box_points': array([1449,  584, 1512,  779])}, {'name': 'person', 'percentage_probability': 50.95945596694946, 'box_points': array([1510,  597, 1588,  799])}, {'name': 'pers
+on', 'percentage_probability': 73.10268878936768, 'box_points': array([ 931,  616, 1017,  843])}], [{'name': 'person', 'percentage_probability': 74.21467304229736, 'box_points': array([1127,  612, 1191,  805]
+)}, {'name': 'person', 'percentage_probability': 52.75246500968933, 'box_points': array([1470,  595, 1536,  776])}, {'name': 'person', 'percentage_probability': 52.72454619407654, 'box_points': array([1589,
+596, 1662,  787])}, {'name': 'person', 'percentage_probability': 78.5563588142395, 'box_points': array([ 967,  601, 1050,  837])}], [{'name': 'person', 'percentage_probability': 62.15364336967468, 'box_points
+': array([384, 630, 482, 775])}, {'name': 'person', 'percentage_probability': 64.72654938697815, 'box_points': array([1011,  614, 1083,  832])}, {'name': 'person', 'percentage_probability': 51.496487855911255
+, 'box_points': array([1485,  598, 1550,  769])}, {'name': 'person', 'percentage_probability': 70.84013223648071, 'box_points': array([ 14, 613, 154, 962])}, {'name': 'person', 'percentage_probability': 64.19
+51858997345, 'box_points': array([1142,  624, 1199,  810])}, {'name': 'person', 'percentage_probability': 56.61875605583191, 'box_points': array([145, 715, 291, 946])}], [{'name': 'person', 'percentage_probab
+ility': 77.47910022735596, 'box_points': array([1049,  613, 1118,  823])}, {'name': 'person', 'percentage_probability': 70.90747356414795, 'box_points': array([1153,  621, 1215,  815])}, {'name': 'person', 'p
+ercentage_probability': 72.94983267784119, 'box_points': array([ 47, 639, 265, 948])}], [{'name': 'person', 'percentage_probability': 59.1727614402771, 'box_points': array([396, 628, 485, 779])}, {'name': 'pe
+rson', 'percentage_probability': 78.07374000549316, 'box_points': array([1111,  612, 1177,  814])}, {'name': 'person', 'percentage_probability': 58.46870541572571, 'box_points': array([1169,  617, 1238,  818]
+)}, {'name': 'person', 'percentage_probability': 83.38667154312134, 'box_points': array([ 94, 610, 252, 946])}], [{'name': 'person', 'percentage_probability': 72.98626899719238, 'box_points': array([1174,  60
+7, 1260,  823])}, {'name': 'person', 'percentage_probability': 72.48449921607971, 'box_points': array([133, 594, 265, 940])}], [{'name': 'person', 'percentage_probability': 55.60259819030762, 'box_points': ar
+ray([485, 623, 550, 783])}, {'name': 'person', 'percentage_probability': 68.97063255310059, 'box_points': array([1204,  601, 1289,  833])}, {'name': 'person', 'percentage_probability': 80.74405193328857, 'box
+_points': array([144, 628, 266, 938])}], [{'name': 'person', 'percentage_probability': 56.393224000930786, 'box_points': array([1285,  608, 1348,  803])}, {'name': 'person', 'percentage_probability': 75.88618
+397712708, 'box_points': array([126, 612, 268, 927])}, {'name': 'person', 'percentage_probability': 64.94362354278564, 'box_points': array([1229,  604, 1305,  836])}], [{'name': 'person', 'percentage_probabil
+ity': 53.65985631942749, 'box_points': array([572, 615, 631, 794])}, {'name': 'person', 'percentage_probability': 52.797138690948486, 'box_points': array([1341,  613, 1409,  792])}, {'name': 'person', 'percen
+tage_probability': 74.8447835445404, 'box_points': array([1258,  613, 1340,  847])}, {'name': 'person', 'percentage_probability': 66.23634696006775, 'box_points': array([161, 631, 282, 921])}], [{'name': 'per
+son', 'percentage_probability': 53.37381958961487, 'box_points': array([576, 616, 635, 796])}, {'name': 'person', 'percentage_probability': 73.60649108886719, 'box_points': array([1291,  612, 1374,  857])}, {
+'name': 'person', 'percentage_probability': 73.48036766052246, 'box_points': array([129, 615, 263, 929])}], [{'name': 'person', 'percentage_probability': 62.50271201133728, 'box_points': array([564, 619, 624,
+ 795])}, {'name': 'person', 'percentage_probability': 76.77998542785645, 'box_points': array([1311,  606, 1404,  865])}, {'name': 'person', 'percentage_probability': 65.09523391723633, 'box_points': array([ 7
+4, 622, 180, 919])}], [{'name': 'person', 'percentage_probability': 58.04979205131531, 'box_points': array([544, 611, 607, 799])}, {'name': 'person', 'percentage_probability': 79.33138012886047, 'box_points':
+ array([1342,  611, 1434,  877])}, {'name': 'person', 'percentage_probability': 51.65657997131348, 'box_points': array([ 34, 689, 114, 935])}], [{'name': 'person', 'percentage_probability': 52.25259065628052,
+ 'box_points': array([531, 607, 600, 793])}, {'name': 'person', 'percentage_probability': 82.90416598320007, 'box_points': array([1374,  601, 1472,  882])}, {'name': 'person', 'percentage_probability': 51.475
+20303726196, 'box_points': array([  1, 697,  86, 940])}], [{'name': 'person', 'percentage_probability': 58.38342308998108, 'box_points': array([493, 608, 566, 789])}, {'name': 'person', 'percentage_probabilit
+y': 86.76255345344543, 'box_points': array([1428,  594, 1539,  893])}], [{'name': 'person', 'percentage_probability': 90.46223163604736, 'box_points': array([1499,  593, 1609,  904])}], [{'name': 'person', 'p
+ercentage_probability': 84.51613187789917, 'box_points': array([1595,  598, 1702,  912])}], [{'name': 'person', 'percentage_probability': 86.8488609790802, 'box_points': array([1672,  586, 1801,  921])}], [{'
+name': 'person', 'percentage_probability': 54.50350046157837, 'box_points': array([494, 613, 562, 785])}, {'name': 'person', 'percentage_probability': 87.86806464195251, 'box_points': array([1746,  580, 1872,
+  937])}], [{'name': 'person', 'percentage_probability': 52.1848201751709, 'box_points': array([486, 607, 546, 785])}, {'name': 'person', 'percentage_probability': 54.442375898361206, 'box_points': array([182
+2,  580, 1926,  951])}], [], [{'name': 'person', 'percentage_probability': 56.9377601146698, 'box_points': array([486, 604, 548, 786])}], [{'name': 'person', 'percentage_probability': 64.77277278900146, 'box_
+points': array([485, 601, 550, 786])}], [{'name': 'person', 'percentage_probability': 55.623990297317505, 'box_points': array([487, 604, 550, 785])}], [{'name': 'person', 'percentage_probability': 54.91843819
+618225, 'box_points': array([489, 601, 550, 787])}, {'name': 'person', 'percentage_probability': 61.37513518333435, 'box_points': array([1209,  597, 1268,  768])}], [{'name': 'person', 'percentage_probability
+': 51.2618362903595, 'box_points': array([1233,  598, 1295,  769])}], [], [{'name': 'person', 'percentage_probability': 54.357320070266724, 'box_points': array([1078,  603, 1147,  777])}, {'name': 'person', '
+percentage_probability': 59.126120805740356, 'box_points': array([1149,  597, 1205,  775])}, {'name': 'person', 'percentage_probability': 63.307809829711914, 'box_points': array([1271,  594, 1330,  775])}], [
+{'name': 'person', 'percentage_probability': 63.91870975494385, 'box_points': array([1175,  579, 1237,  775])}, {'name': 'person', 'percentage_probability': 63.2330060005188, 'box_points': array([1086,  599,
+1146,  776])}, {'name': 'person', 'percentage_probability': 50.02199411392212, 'box_points': array([1287,  597, 1344,  779])}], [{'name': 'person', 'percentage_probability': 50.79863667488098, 'box_points': a
+rray([565, 616, 624, 796])}, {'name': 'person', 'percentage_probability': 51.61871314048767, 'box_points': array([1206,  601, 1264,  779])}, {'name': 'person', 'percentage_probability': 66.19536876678467, 'bo
+x_points': array([1295,  597, 1355,  778])}], [{'name': 'person', 'percentage_probability': 50.64983367919922, 'box_points': array([1214,  595, 1275,  776])}], [], [{'name': 'person', 'percentage_probability'
+: 63.87491226196289, 'box_points': array([1178,  616, 1239,  790])}], [{'name': 'person', 'percentage_probability': 64.09130096435547, 'box_points': array([1200,  596, 1266,  790])}, {'name': 'person', 'perce
+ntage_probability': 54.09650802612305, 'box_points': array([1279,  581, 1341,  786])}, {'name': 'person', 'percentage_probability': 53.75648736953735, 'box_points': array([1388,  599, 1449,  784])}], [{'name'
+: 'person', 'percentage_probability': 53.595125675201416, 'box_points': array([1231,  601, 1296,  792])}, {'name': 'person', 'percentage_probability': 50.92989206314087, 'box_points': array([1296,  583, 1358,
+  792])}], [{'name': 'person', 'percentage_probability': 55.29208183288574, 'box_points': array([1268,  598, 1332,  792])}, {'name': 'person', 'percentage_probability': 58.93781781196594, 'box_points': array(
+[1324,  595, 1391,  794])}, {'name': 'person', 'percentage_probability': 52.78168320655823, 'box_points': array([1446,  583, 1516,  793])}], [{'name': 'person', 'percentage_probability': 57.974421977996826, '
+box_points': array([1307,  604, 1376,  795])}, {'name': 'person', 'percentage_probability': 50.670868158340454, 'box_points': array([1364,  607, 1425,  795])}, {'name': 'person', 'percentage_probability': 50.
+375109910964966, 'box_points': array([1489,  609, 1552,  795])}], [{'name': 'person', 'percentage_probability': 60.49506068229675, 'box_points': array([1382,  598, 1465,  801])}], [{'name': 'person', 'percent
+age_probability': 64.41475749015808, 'box_points': array([1456,  585, 1532,  806])}, {'name': 'person', 'percentage_probability': 55.48417568206787, 'box_points': array([1546,  600, 1611,  788])}], [{'name':
+'person', 'percentage_probability': 53.30321788787842, 'box_points': array([1513,  583, 1624,  802])}], [], [], [], [], [], [{'name': 'person', 'percentage_probability': 79.1290819644928, 'box_points': array(
+[ 83, 518, 216, 945])}], [{'name': 'person', 'percentage_probability': 55.50926923751831, 'box_points': array([1284,  594, 1347,  774])}, {'name': 'person', 'percentage_probability': 77.10639834403992, 'box_p
+oints': array([218, 544, 342, 920])}], [{'name': 'person', 'percentage_probability': 70.35526037216187, 'box_points': array([360, 562, 470, 880])}, {'name': 'person', 'percentage_probability': 59.040451049804
+69, 'box_points': array([1220,  595, 1295,  780])}]]
+Array for output count for unique objects in each frame :  [{'person': 5}, {'person': 5}, {'person': 5}, {'person': 5}, {'person': 6}, {'person': 5}, {'person': 6}, {'person': 5}, {'person': 4}, {'person': 4}
+, {'person': 4}, {'person': 3}, {'person': 5}, {'person': 4}, {'person': 4}, {'person': 6}, {'person': 3}, {'person': 4}, {'person': 2}, {'person': 3}, {'person': 3}, {'person': 4}, {'person': 3}, {'person':
+3}, {'person': 3}, {'person': 3}, {'person': 2}, {'person': 1}, {'person': 1}, {'person': 1}, {'person': 2}, {'person': 2}, {}, {'person': 1}, {'person': 1}, {'person': 1}, {'person': 2}, {'person': 1}, {}, {
+'person': 3}, {'person': 3}, {'person': 3}, {'person': 1}, {}, {'person': 1}, {'person': 3}, {'person': 2}, {'person': 3}, {'person': 3}, {'person': 1}, {'person': 2}, {'person': 1}, {}, {}, {}, {}, {}, {'per
+son': 1}, {'person': 2}, {'person': 2}]
+Output average count for unique objects in the last second:  {'person': 2.55}
+------------END OF A SECOND --------------
